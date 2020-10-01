@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">database_exam_sample</string>
+    <string name="reset">Reset</string>
+    <string name="start_rap">start/rap</string>
+</resources>
